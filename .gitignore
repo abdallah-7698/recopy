@@ -1,0 +1,17 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+
+# Claude
+.claude/
+.commits/
+
+# Release
+release/
+
+# macOS
+.DS_Store
+*.swp
